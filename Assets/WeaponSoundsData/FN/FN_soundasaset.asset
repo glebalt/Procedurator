@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3e4d4e38d9fae4e91d20dac5ec595c, type: 3}
+  m_Name: FN_soundasaset
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSoundsData
+  magIn: {fileID: 8300000, guid: 454c7c5c39d27c14882bcc4d33f16af4, type: 3}
+  magOut: {fileID: 8300000, guid: 93246e0af78214d44b6fd899a08d6e83, type: 3}
+  reload:
+  - {fileID: 8300000, guid: 8d723660ee9143c499c3d8f90b4eca5a, type: 3}
+  - {fileID: 8300000, guid: 93246e0af78214d44b6fd899a08d6e83, type: 3}
+  - {fileID: 8300000, guid: af230dcdfe5b89243b318d5e35c6841f, type: 3}
+  - {fileID: 8300000, guid: ff6ca97640bc610438e7be7577c43671, type: 3}
+  - {fileID: 8300000, guid: 454c7c5c39d27c14882bcc4d33f16af4, type: 3}
+  - {fileID: 8300000, guid: 2df0a969b6ba69143bc9f32eff81f1c0, type: 3}
+  equip:
+  - {fileID: 8300000, guid: 4073a049579ad0240acdb61d2d2dbb5f, type: 3}
+  - {fileID: 8300000, guid: bb80a6bb028b14e47a48885da8bb913d, type: 3}
+  - {fileID: 8300000, guid: 862c1bc6d94502342800b07fbce8f374, type: 3}
+  - {fileID: 8300000, guid: 795bb38cbff012c4c9c0ee6beef7b2d6, type: 3}
+  reloadVoulume: 1
+  armMovement1: {fileID: 8300000, guid: 8d723660ee9143c499c3d8f90b4eca5a, type: 3}
+  armMovement2: {fileID: 0}
+  boltPull: {fileID: 0}
+  boltRelease: {fileID: 0}
+  bulletEject: []
+  shotsCore:
+  - {fileID: 8300000, guid: 8c67d0670ee717c4e86a8f381a9b0a19, type: 3}
+  - {fileID: 8300000, guid: d49fe3ab095fe47438d0d28714f28c09, type: 3}
+  - {fileID: 8300000, guid: 7ad0b1e474e4b8141b99c7ec9e620068, type: 3}
+  - {fileID: 8300000, guid: ffb2d1a995cfecc43b04babe9b602e0e, type: 3}
+  - {fileID: 8300000, guid: a60e651e2e6655a4db215985da29ac21, type: 3}
+  shotsTail:
+  - {fileID: 8300000, guid: 90084478892e78d47a5bed298d1a2190, type: 3}
+  - {fileID: 8300000, guid: d2bf3db2b081a944fbe2cef226a89def, type: 3}
+  - {fileID: 8300000, guid: a5b19b6fd38a7cb46829cedbc7eb40eb, type: 3}
+  shotMech: {fileID: 8300000, guid: f867ba7ffb10ae740addc30865848979, type: 3}
+  shotBass: {fileID: 0}

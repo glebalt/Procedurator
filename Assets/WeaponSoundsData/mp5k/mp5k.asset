@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3e4d4e38d9fae4e91d20dac5ec595c, type: 3}
+  m_Name: mp5k
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSoundsData
+  magIn: {fileID: 8300000, guid: 1a1a68e8a5b3800428e125a54160e470, type: 3}
+  magOut: {fileID: 8300000, guid: 1976c4ae6c39caa45a89bb256efa40b1, type: 3}
+  reload:
+  - {fileID: 8300000, guid: 6d74e7491200d704da7b4528b881165e, type: 3}
+  - {fileID: 8300000, guid: 1976c4ae6c39caa45a89bb256efa40b1, type: 3}
+  - {fileID: 8300000, guid: c3232120151dd9540848f5ca55d8ff96, type: 3}
+  - {fileID: 8300000, guid: 1a1a68e8a5b3800428e125a54160e470, type: 3}
+  - {fileID: 8300000, guid: d86908304d9142b44aa0c74378cde33c, type: 3}
+  equip:
+  - {fileID: 8300000, guid: 93f4a8f369f67c3439c2adf456869a20, type: 3}
+  reloadVoulume: 2
+  armMovement1: {fileID: 8300000, guid: 6d74e7491200d704da7b4528b881165e, type: 3}
+  armMovement2: {fileID: 8300000, guid: d86908304d9142b44aa0c74378cde33c, type: 3}
+  boltPull: {fileID: 0}
+  boltRelease: {fileID: 0}
+  bulletEject:
+  - {fileID: 0}
+  shotsCore:
+  - {fileID: 8300000, guid: ad7e18109198d444989b18f76ab284d6, type: 3}
+  - {fileID: 8300000, guid: 2de9aa8936c6f2a48ae8b45b6e4df1ec, type: 3}
+  - {fileID: 8300000, guid: 37c0397f3a152ea47b20728315cd18ac, type: 3}
+  - {fileID: 8300000, guid: 3fc8cde4373eed44bba8ac8f9a93ae2e, type: 3}
+  shotsTail:
+  - {fileID: 8300000, guid: 65e4e93f67bc59a408aeb8cc59d5b689, type: 3}
+  shotMech: {fileID: 0}
+  shotBass: {fileID: 0}

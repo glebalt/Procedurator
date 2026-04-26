@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3e4d4e38d9fae4e91d20dac5ec595c, type: 3}
+  m_Name: SV-98
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSoundsData
+  magIn: {fileID: 8300000, guid: 31a18a79bab347a4a8c5013b5d70e4ce, type: 3}
+  magOut: {fileID: 8300000, guid: 1d8a0fc7c1e95bf449126a61c38ebeaf, type: 3}
+  equip:
+  - {fileID: 8300000, guid: f5ef21fcd7163374e8731d36048c4963, type: 3}
+  - {fileID: 8300000, guid: 44e68b2c3f078d64fa6a2831e2f5afa6, type: 3}
+  - {fileID: 8300000, guid: 55ee217f1d39703419c1185a685b83d8, type: 3}
+  armMovement1: {fileID: 0}
+  armMovement2: {fileID: 0}
+  boltPull: {fileID: 8300000, guid: 67c11b23c7b4f9444b65413157802954, type: 3}
+  boltRelease: {fileID: 8300000, guid: da64b64583c55144c9bf26a6e318094b, type: 3}
+  bulletEject:
+  - {fileID: 8300000, guid: 83173625f302eef4e9145c8bdfb961e9, type: 3}
+  - {fileID: 8300000, guid: 8a3e62cf4832df14ea6b56c282678760, type: 3}
+  shotsCore:
+  - {fileID: 8300000, guid: a675c0bb4af6caa479167238b56290d9, type: 3}
+  - {fileID: 8300000, guid: d848b95d9c0d1ea4a8aeeaaab7f32079, type: 3}
+  - {fileID: 8300000, guid: 9f6a593fde71abf4190c5fd023236696, type: 3}
+  - {fileID: 8300000, guid: 8957a6d45f6570d459f1ccbd45ced2ce, type: 3}
+  shotsTail:
+  - {fileID: 8300000, guid: adba30bdb509c1d478e7a5c3b2d3b54a, type: 3}
+  - {fileID: 8300000, guid: 2dd6bbca18cc26e4c8e653217cde8fee, type: 3}
+  - {fileID: 8300000, guid: 658a607fd8ebcb7458ae8107df4d42ba, type: 3}
+  shotMech: {fileID: 8300000, guid: 64d948fe5fa9b974b8bffc03e277eb5b, type: 3}
+  shotBass: {fileID: 8300000, guid: bbf580d2da33c1e4e9ce92ef9c835d09, type: 3}

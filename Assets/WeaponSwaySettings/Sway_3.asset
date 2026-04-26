@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8d4e3dfd24f2f4192c46efd00fcb43, type: 3}
+  m_Name: Sway_3
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSwaySettings
+  isEnabled: 0
+  freqIdle: 1
+  respIdle: 1
+  dampIdle: 0.4
+  freqWR: 1
+  respWR: 1
+  dampWR: 0.3
+  strengthPos: 0.01
+  strengthRot: 1
+  zPosModMouse: 1
+  i_yPosIdleStr: 0.4
+  i_zPosIdleStr: 0.5
+  i_xRotIdleStr: 2
+  i_yRotIdleStr: 0.7
+  i_zRotIdleStr: 1
+  zPosMin: 0
+  zPosMax: 0
+  yPosStr: 10
+  xRotStr: 3
+  yRotStr: 1
+  zRotStr: 2
+  xPosStr: 2
+  zPosStr: 10
+  timerZRot: 0
+  timerXRot: 1
+  timerXPos: 0
+  timerYPos: 0.5
+  timerYRot: 0.74
+  timerZPos: 0.5
+  sinYposFreq: 7
+  sinXPosFreq: 3
+  sinXRotFreq: 15
+  sinZPosFreq: 10
+  sinZRotFreq: 5
+  sinYRotFreq: 15
+  sinYrMod: 2
+  sinYpMod: 0.3
+  sinZpMod: 0.2
+  sinZrMod: 4
+  sinXpMod: 0
+  sinXrMod: 5
+  sinYposFreqSprint: 18
+  sinZposFreqSprint: 33
+  sinXPosFreqSprint: 7
+  sinXRotFreqSprint: 12
+  sinZRotFreqSprint: 2
+  sinYRotFreqSprint: 20
+  sinYpModSprint: 3
+  sinZpModSprint: 0
+  sinXpModSprint: 0.4
+  sinZrModSprint: 0
+  sinXrModSprint: 15
+  sinYrModSprint: 6
+  sinValZRot: 0
+  sinValXRot: 0
+  sinValYPos: -0
+  sinValYRot: -0
+  sinValZPos: -0
+  sinValXPos: 0
